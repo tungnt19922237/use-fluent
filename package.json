@@ -1,0 +1,8 @@
+{
+  "name": "use-fluent",
+  "version": "0.2.3",
+  "description": "Small typed hooks: debounce, localStorage, media query, toggle",
+  "main": "src/index.js",
+  "scripts": { "test": "echo \"no tests yet\" && exit 0" },
+  "peerDependencies": { "react": ">=17" }
+}
